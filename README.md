@@ -51,6 +51,6 @@ To use this project, follow these steps:
 
 
 
-Feel free to customize the placeholders like `Salman Ahmed`, `mughalsalman616@gmail.com`, and paths as needed.
+Feel free to customize the placeholders like `Salman Ahmed`, `mughalsalman616@gmail.com`.
 
 
